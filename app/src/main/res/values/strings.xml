@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">guesswordapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="success_message">Congrats, you guessed it</string>
+    <string name="success_ok">Great!</string>
+    <string name="cancel">okay</string>
+    <string name="failure_message">Sorry, Try again</string>
+    <string name="failure_ok">Try Again</string>
+    <string name="try_again_message">Wrong Guess, Try Again</string>
+    <string name="no_net">No Internet Access</string>
+    <string name="loading">Loading..</string>
+</resources>
