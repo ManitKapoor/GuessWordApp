@@ -1,2 +1,2 @@
 # GuessWordApp
-An app for guess word game
+Its a  app game to guess word with given hint The player has to guess the word within limited tries
